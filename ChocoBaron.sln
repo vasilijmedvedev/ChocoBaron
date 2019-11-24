@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocoBaron", "ChocoBaron\ChocoBaron.csproj", "{D51A9F42-5BE1-4587-8D80-395C0D51BB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51A9F42-5BE1-4587-8D80-395C0D51BB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51A9F42-5BE1-4587-8D80-395C0D51BB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51A9F42-5BE1-4587-8D80-395C0D51BB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51A9F42-5BE1-4587-8D80-395C0D51BB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC79B671-2EC9-49FA-BE82-DF8CB9BC0019}
+	EndGlobalSection
+EndGlobal
